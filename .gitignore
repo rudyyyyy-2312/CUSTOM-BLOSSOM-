@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Local env – NEVER commit real keys
+.env
+.env.local
+.env.*.local
+
+# Editor
+.DS_Store
+Thumbs.db
+*.log
